@@ -1,2 +1,4 @@
-# dio-desafio-github-primeiro-repositorio2
-desafio de Projeto sobre Git/Github
+Repositório do Desafio de Projeto  Sobre Git/GitHub da Diodes
+Repositório criado para o de fasio de projeto.
+##Links uteis
+[Sintaxe-Básica-Markdown]()https://www.markdownguide.org/basic-syntax/
